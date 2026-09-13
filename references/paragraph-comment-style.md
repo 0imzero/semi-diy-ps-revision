@@ -2,12 +2,19 @@
 
 Use this route only after the whole-document review exists or has been completed in the same task. Move through the PS in order and comment only on material issues.
 
+## Action test
+
+Every comment must cause a useful revision. Before writing it, complete this sentence: `After reading this comment, the writer should...` If the answer is only `keep the existing content`, `note that a fact is correct` or `understand what they already wrote`, omit the comment.
+
+Prioritise comments that improve paragraph purpose, narrative movement, evidence selection and weighting, programme fit or reader impact. Prefer one decisive structural or content comment to several defensive wording notes.
+
 ## Scope each comment precisely
 
 - Anchor one sentence when only that sentence is wrong.
 - Anchor a span when several sentences share one issue.
 - Use a whole-paragraph comment only for a genuinely shared structural problem.
 - Do not change a sentence that is already good merely to demonstrate editing.
+- Do not comment simply because a more cautious wording is available.
 
 Before writing a comment, determine what the source says, why it matters in the complete PS, and what exact change would improve it.
 
@@ -40,9 +47,19 @@ The Chinese comment should sound like the applicant discussing their draft with 
 
 Avoid reviewer-report language, vague phrases such as “建议优化表达”, praise or debate about another reviewer, forced politeness, inflated claims and generic AI transitions.
 
+Also avoid:
+
+- explaining which existing facts or phrases do not need to change;
+- reassurance such as `这一段整体可以保留` when no concrete revision follows;
+- repeating the source paragraph back to its author;
+- introducing teammate, scope or evidence caveats that do not solve a material problem;
+- using a Word comment to document the reviewer's internal fact-checking process.
+
 ## Replacement examples
 
 Preserve facts, tone and paragraph function. Do not invent a result, mechanism, course status, responsibility or emotional reaction.
+
+Strong interpretation and confident personal emphasis are welcome when they are supported by the experience. Do not flatten vivid material merely to make every statement maximally defensive.
 
 When length parity matters, compare English word counts:
 

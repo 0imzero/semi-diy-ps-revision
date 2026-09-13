@@ -5,7 +5,7 @@ description: Review and iteratively improve an existing graduate-application Per
 
 # Semi-DIY PS Revision
 
-Help the applicant take control of an existing PS draft. Preserve verified facts and the applicant's own judgement while correcting weak argumentation, inaccurate professional detail, generic programme fit and unhelpful intermediary phrasing.
+Help the applicant turn an existing PS draft into a more memorable and persuasive application. Prioritise applicant positioning, narrative logic, evidence selection and programme fit. Preserve confirmed facts and the applicant's own judgement, but treat verification as a guardrail rather than the purpose of revision.
 
 ## Route the request
 
@@ -26,14 +26,18 @@ For routes 3–6, use `scripts/extract_docx_review.py` whenever body text, track
 - Keep `Applicant_Master_Profile.md` once at the applicant workspace root. Reuse it across all programme folders; never copy it into each folder.
 - Require a user-supplied official programme URL before programme research. Follow relevant official pages from that starting point and date the memo.
 - Keep each programme's `Programme_Info.md`, `Programme_Research_Memo.md`, drafts, reviews and final check inside that programme folder.
-- Review from whole to part: central thesis and evidence chain first, paragraph comments second.
+- Review from whole to part: applicant proposition, reader interest, central thesis and evidence chain first; paragraph comments second.
 - Select evidence by relevance, not prestige. A PS normally needs one thesis and two or three mutually reinforcing experiences, not every CV entry.
+- Be willing to restructure, merge, cut, replace or substantially reweight material when that clearly strengthens the admissions case.
+- Judge changes in this order: memorable applicant identity, narrative movement, evidence strength and weighting, ability gap, programme fit, reader impact, then final factual consistency.
 - Never invent metrics, outcomes, responsibilities, emotions, causal findings, course availability or career guarantees.
 - Distinguish completed action, personal interpretation, possible mechanism and future ability gap.
-- Treat uncertain details as material to develop: ask focused questions or record them in the output instead of filling them with plausible prose.
+- Treat uncertain details proportionately. Ask focused questions when they affect the chosen story or credibility; otherwise record them for final review rather than interrupting useful revision.
 - Verify unstable programme facts through current official sources. Label electives, capstones, internships, exchanges and tracks accurately.
 - Never overwrite an input DOCX. Write analysis artifacts to `Reviews/` and submission checks to `Final/`.
-- Keep the applicant's natural voice. Different wording is not a defect unless a change materially improves truth, logic, fit or readability.
+- Keep the applicant's natural voice. Different wording is not a defect unless a change materially improves persuasiveness, logic, fit, reader interest or readability.
+- Accept facts the user has explicitly confirmed. Do not turn every scope note, team contribution or possible ambiguity into a defensive caveat.
+- Every Word comment must request a concrete revision. Do not use comments to list what should remain unchanged, reassure the writer about their own prose or demonstrate that a review occurred. If there is no useful action, leave no comment.
 
 ## Workspace and output contract
 

@@ -1,6 +1,6 @@
 # Whole-document PS review
 
-Review the complete existing PS before suggesting sentence edits. Use the accepted DOCX body as the current draft, while reading rejected changes and comments as separate review evidence.
+Review the complete existing PS before suggesting sentence edits. Use the accepted DOCX body as the current draft, while reading rejected changes and comments as separate review evidence. The primary standard is whether the essay makes the applicant memorable, credible and desirable for the target programme. Accuracy is a baseline, not the organising principle of the review.
 
 ## Required context
 
@@ -14,9 +14,9 @@ python -X utf8 scripts/extract_docx_review.py INPUT.docx -o Reviews/PS_<version>
 
 Use `--format markdown` for an additional readable extraction. Never overwrite the DOCX.
 
-## Pass 1: reconstruct the argument
+## Pass 1: reconstruct the admissions argument
 
-State in one sentence what the draft asks the admissions reader to believe. A viable taught-master PS usually follows:
+State in one sentence who the admissions reader should remember the applicant as and what the draft asks that reader to believe. A viable taught-master PS usually follows:
 
 `real motivation -> evidence and developing understanding -> present ability gap -> programme-specific next step -> credible career progression`
 
@@ -24,13 +24,16 @@ This is a logic test, not a mandatory paragraph template.
 
 Check:
 
-- **Opening:** Is the scene specific, true and useful? Does it introduce a question the later essay genuinely develops?
-- **Evidence chain:** What does each experience prove? Does it change the applicant's understanding or merely repeat a CV bullet?
+- **Opening:** Is the scene specific, engaging and useful? Does it create curiosity and introduce a question the later essay genuinely develops?
+- **Applicant proposition:** Is there a distinctive and programme-relevant identity, or only a list of competent experiences?
+- **Evidence chain:** What does each experience prove? Does it change the applicant's understanding or merely repeat a CV bullet? Is it the strongest available material for this function?
+- **Evidence weight:** Is paragraph space proportional to admissions value? Should an experience be expanded, compressed, merged, replaced or removed?
 - **Progression:** Are chronology and causal development accurate? Is a later insight projected backwards into an earlier experience?
 - **Ability gap:** Does the applicant show readiness without sounding as if they have already mastered the field?
-- **Programme fit:** Does each named resource answer a demonstrated gap? Is the wording accurate and current?
+- **Programme fit:** Does each named resource answer a demonstrated gap and make the degree feel necessary rather than merely relevant?
 - **Career direction:** Is the first step credible, and does the longer progression follow from the training sought?
-- **Completeness:** Can every paragraph's function be named, and does the ending resolve the thesis?
+- **Reader impact:** What concrete scene, decision or insight will remain after one reading? Has cautious abstraction flattened the applicant's strongest material?
+- **Completeness:** Can every paragraph's function be named, and does the ending resolve the thesis persuasively?
 
 ## Common structural failures
 
@@ -44,16 +47,20 @@ Check:
 
 ## Pass 2: paragraph audit
 
-For each paragraph, check one clear function, evidence before reflection, proportional technical detail, accurate association/causation, natural transitions, factual consistency, and student-level voice. Do not edit a sentence merely because another synonym is possible.
+First decide whether the paragraph deserves its place and whether its function advances the admissions argument. Then check evidence before reflection, proportional technical detail, natural transitions, reader interest and student-level voice. Do not edit a sentence merely because another synonym or more cautious formulation is possible.
 
 Comment only when at least one is true:
 
-1. a fact, role, chronology or programme claim is wrong;
-2. the paragraph's function or logic is unclear;
-3. the evidence does not support the conclusion;
-4. repetition materially slows the essay;
-5. tone places the applicant at the wrong academic or professional level;
-6. a change clearly improves fit, credibility or readability.
+1. the applicant proposition or narrative progression would become stronger;
+2. the paragraph's function, evidence selection or weighting is weak;
+3. chronology or causal development is distorted;
+4. repetition or technical reporting materially slows the essay;
+5. the programme link does not answer a demonstrated need;
+6. tone weakens reader interest or places the applicant at the wrong level;
+7. a factual or professional error creates a material credibility problem;
+8. a change clearly improves persuasiveness, fit or readability.
+
+Use fact checking proportionately. Accept user-confirmed details. Raise a fact or scope issue during paragraph review only when it materially changes the story, responsibility, result or programme claim. Save exhaustive consistency checking for final review.
 
 ## Output
 

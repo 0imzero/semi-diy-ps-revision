@@ -39,15 +39,18 @@ Write `Reviews/PS_Version_Comparison_<old>_<new>.md`:
 
 Use the latest body, not filenames alone. Recheck current official programme facts when they appear in the essay or may have changed.
 
+This is the stage for exhaustive factual and application-wide checking. Earlier creative and paragraph-review stages should remain focused on admissions argument, narrative and fit unless a material credibility problem is already visible.
+
 Audit:
 
-1. central thesis and paragraph functions;
-2. truth, chronology, responsibility and quantified claims;
-3. programme name, degree terminology, courses and opportunities;
-4. prompt coverage and exact word/character limit;
-5. CV, PS, recommendations and application-form consistency when those files are available;
-6. grammar, readability, natural voice and formatting;
-7. unresolved comments, tracked deletions, placeholders and accidental metadata.
+1. applicant proposition, central thesis, reader impact and paragraph functions;
+2. narrative progression, evidence weighting and programme fit;
+3. truth, chronology, responsibility and quantified claims;
+4. programme name, degree terminology, courses and opportunities;
+5. prompt coverage and exact word/character limit;
+6. CV, PS, recommendations and application-form consistency when those files are available;
+7. grammar, readability, natural voice and formatting;
+8. unresolved comments, tracked deletions, placeholders and accidental metadata.
 
 Write `Final/PS_Final_Check.md` with exactly one status:
 
