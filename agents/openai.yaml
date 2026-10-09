@@ -1,4 +1,4 @@
 interface:
   display_name: "半DIY申研PS修改"
-  short_description: "帮助半DIY申请者用资料库和项目官网系统修改已有申研PS初稿"
-  default_prompt: "Use $semi-diy-ps-revision to review and improve my existing graduate application PS draft."
+  short_description: "用已有PS、批注和项目官网迭代文书，CV与准备材料可选"
+  default_prompt: "Use $semi-diy-ps-revision to review and improve my existing graduate application PS draft, even if I do not yet have a CV or preparation pack ready."

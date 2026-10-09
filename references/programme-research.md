@@ -6,10 +6,12 @@ Use this route separately for every target degree. Programme facts are time-sens
 
 Read:
 
-- the parent `Applicant_Master_Profile.md`;
+- the parent `Applicant_Master_Profile.md` when available;
 - the programme folder's `Programme_Info.md`;
 - the applicant-supplied official programme URL;
 - the official prompt and word limit when available.
+
+If no master profile exists, use the accepted PS body and user confirmations as the applicant evidence for the fit map. Programme research may also be completed before any personal materials are available; in that case, establish the programme thesis and leave applicant-specific mappings provisional rather than blocking the route.
 
 If the official URL is missing, stop this route and ask for it. Do not substitute an aggregator or an inferred programme page. If the portal prompt or word limit is unavailable publicly, continue the research and mark that field for portal confirmation.
 
@@ -91,4 +93,3 @@ Every unstable claim that may appear in the PS should be traceable to a direct o
 ## Completion condition
 
 This route is complete when the memo explains the programme's selection logic, connects it to the applicant's evidence and gaps, records direct official sources, and makes a concrete PS positioning recommendation. Do not modify the PS unless the user also requests a review route.
-

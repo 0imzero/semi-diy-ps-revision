@@ -4,7 +4,9 @@ Review the complete existing PS before suggesting sentence edits. Use the accept
 
 ## Required context
 
-Read the parent `Applicant_Master_Profile.md`, the programme's `Programme_Research_Memo.md`, `Programme_Info.md`, the current PS and relevant prior reviews. If the programme memo is absent, explain that programme-fit conclusions are provisional and run programme research first when the official URL is available.
+Read the parent `Applicant_Master_Profile.md` when one exists, the programme's `Programme_Research_Memo.md`, `Programme_Info.md`, the current PS and relevant prior reviews. If no CV or master profile is available, follow [ps-only-workflow.md](ps-only-workflow.md): proceed from the accepted PS body, user confirmations, comments and programme information instead of blocking the review.
+
+If the programme memo is absent, explain that programme-fit conclusions are provisional and run programme research first when the official URL is available. If external applicant materials are absent, note once that cross-document consistency has not been checked; do not repeat this limitation in paragraph feedback.
 
 For DOCX input, run:
 
@@ -27,6 +29,7 @@ Check:
 - **Opening:** Is the scene specific, engaging and useful? Does it create curiosity and introduce a question the later essay genuinely develops?
 - **Applicant proposition:** Is there a distinctive and programme-relevant identity, or only a list of competent experiences?
 - **Evidence chain:** What does each experience prove? Does it change the applicant's understanding or merely repeat a CV bullet? Is it the strongest available material for this function?
+- **Revision latitude:** Is the user asking for strict fact checking, normal persuasive packaging or flexible redevelopment of a project/FYP? Use the permitted latitude to strengthen the story without inventing fixed biographical facts.
 - **Evidence weight:** Is paragraph space proportional to admissions value? Should an experience be expanded, compressed, merged, replaced or removed?
 - **Progression:** Are chronology and causal development accurate? Is a later insight projected backwards into an earlier experience?
 - **Ability gap:** Does the applicant show readiness without sounding as if they have already mastered the field?
@@ -49,6 +52,8 @@ Check:
 
 First decide whether the paragraph deserves its place and whether its function advances the admissions argument. Then check evidence before reflection, proportional technical detail, natural transitions, reader interest and student-level voice. Do not edit a sentence merely because another synonym or more cautious formulation is possible.
 
+In PS-only mode, the draft is a starting evidence source rather than untouchable testimony. Reframe, expand or replace weak experience descriptions when the underlying experience can support a stronger function. When the user has authorised flexibility, offer a coherent candidate version instead of stopping at a request for more detail.
+
 Comment only when at least one is true:
 
 1. the applicant proposition or narrative progression would become stronger;
@@ -60,7 +65,7 @@ Comment only when at least one is true:
 7. a factual or professional error creates a material credibility problem;
 8. a change clearly improves persuasiveness, fit or readability.
 
-Use fact checking proportionately. Accept user-confirmed details. Raise a fact or scope issue during paragraph review only when it materially changes the story, responsibility, result or programme claim. Save exhaustive consistency checking for final review.
+Use fact checking proportionately. Accept user-confirmed details. Raise a fact or scope issue during paragraph review only when it materially changes the story, responsibility, result or programme claim. Do not add defensive qualifications solely to anticipate possible objections. Save exhaustive consistency checking for final review.
 
 ## Output
 
@@ -85,4 +90,3 @@ Write `Reviews/PS_Overall_Review_<version>.md`:
 ```
 
 Put the argument map inside this file; do not create another mandatory map. Prioritise a small number of changes that materially improve the document. Do not rewrite the full PS unless the user explicitly asks after the diagnosis.
-

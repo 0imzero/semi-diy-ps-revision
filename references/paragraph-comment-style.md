@@ -8,6 +8,8 @@ Every comment must cause a useful revision. Before writing it, complete this sen
 
 Prioritise comments that improve paragraph purpose, narrative movement, evidence selection and weighting, programme fit or reader impact. Prefer one decisive structural or content comment to several defensive wording notes.
 
+In PS-only mode, do not limit comments to what can be proved from a CV that has not been supplied. The current draft and user confirmations are the working evidence base. A comment may request or model a stronger framing, richer mechanism, clearer decision point or more useful reflection.
+
 ## Scope each comment precisely
 
 - Anchor one sentence when only that sentence is wrong.
@@ -53,13 +55,18 @@ Also avoid:
 - reassurance such as `这一段整体可以保留` when no concrete revision follows;
 - repeating the source paragraph back to its author;
 - introducing teammate, scope or evidence caveats that do not solve a material problem;
+- adding qualifiers merely to defend against an imagined objection;
 - using a Word comment to document the reviewer's internal fact-checking process.
 
 ## Replacement examples
 
-Preserve facts, tone and paragraph function. Do not invent a result, mechanism, course status, responsibility or emotional reaction.
+Preserve fixed facts, tone and paragraph function. Do not invent an employer, formal role, award, metric, completed result, course status or responsibility.
+
+You may reorganise and enrich an experience by making its implied mechanism, decision context, turning point or reflection explicit. When the applicant has said that an FYP, project or scene is flexible, provide a confident candidate version with plausible detail for confirmation. Do not clutter the replacement with disclaimers; keep the proposal distinct from confirmed history in the surrounding explanation until the applicant accepts it.
 
 Strong interpretation and confident personal emphasis are welcome when they are supported by the experience. Do not flatten vivid material merely to make every statement maximally defensive.
+
+Follow the draft's established human voice and the document adviser's style when it works. Avoid uniform sentence rhythms, generic three-part abstractions and transitions that sound mechanically generated.
 
 When length parity matters, compare English word counts:
 
@@ -80,4 +87,3 @@ Outside the comment, state when the new feedback fully supersedes an old comment
 When the user says “继续”, handle the next unreviewed paragraph. Do not repeat the overall diagnosis, ask which paragraph is next, or add unrelated advice.
 
 If the user wants a single reusable artifact, append comments to `Reviews/PS_Paragraph_Comments_<version>.md`. An annotated DOCX is optional and should be created only when requested; never overwrite the source.
-
